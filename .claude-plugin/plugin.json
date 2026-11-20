@@ -1,0 +1,31 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "chinamedscheck",
+  "version": "1.0.0",
+  "description": "Official stateless MCP server for ChinaMedsCheck.com — China Customs GACC Decree 442 medication screener, CAAC cabin limits & bilingual pharmacy cards.",
+  "homepage": "https://chinamedscheck.com",
+  "repository": "https://github.com/AbigailDavised/chinamedscheck-mcp",
+  "license": "MIT",
+  "author": {
+    "name": "Abigail Davised",
+    "email": "admin@chinamedscheck.com",
+    "url": "https://chinamedscheck.com"
+  },
+  "keywords": [
+    "china-customs",
+    "medication-legality",
+    "gacc-decree-442",
+    "airport-red-channel",
+    "caac",
+    "mcp"
+  ],
+  "extensions": {
+    "com.nousresearch.hermes": {
+      "servers": {
+        "chinamedscheck": {
+          "trust": "untrusted"
+        }
+      }
+    }
+  }
+}

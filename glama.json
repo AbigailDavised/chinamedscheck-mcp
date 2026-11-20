@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/connector.json",
+  "maintainers": [
+    "AbigailDavised"
+  ],
+  "url": "https://chinamedscheck.com/api/mcp"
+}

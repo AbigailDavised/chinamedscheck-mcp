@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "chinamedscheck": {
+      "type": "http",
+      "url": "https://chinamedscheck.com/api/mcp"
+    }
+  }
+}

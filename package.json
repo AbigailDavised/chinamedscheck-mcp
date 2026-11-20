@@ -1,0 +1,11 @@
+{
+  "name": "chinamedscheck-mcp",
+  "version": "1.0.0",
+  "description": "Official stateless MCP server for ChinaMedsCheck.com — China Customs GACC Decree 442 medication screener, CAAC cabin limits & bilingual pharmacy cards.",
+  "homepage": "https://chinamedscheck.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbigailDavised/chinamedscheck-mcp.git"
+  },
+  "license": "MIT"
+}
